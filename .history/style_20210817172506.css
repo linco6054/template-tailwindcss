@@ -1,0 +1,16 @@
+/* just because of the structure */
+.mainSection {
+  position: relative !important;
+  display: flex;
+}
+.mainSection_images {
+  flex: 1 !important;
+  
+}
+.mainSection_mother {
+  flex: 5;
+}
+.mainSection_mother > nav {
+  position: sticky !important;
+  top: 0 !important;
+}

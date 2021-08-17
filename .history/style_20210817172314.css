@@ -1,0 +1,8 @@
+/* just because of the structure */
+.mainSection {
+  position: relative !important;
+  display: flex;
+}
+.mainSection_images{
+    flex
+}
